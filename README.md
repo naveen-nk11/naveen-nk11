@@ -1,58 +1,105 @@
 <div align="center">
 
-Hi, I'm Naveen 👋
-Final-Year Computer Science Engineering Student | Java Developer
-I’m interested in building practical software applications and improving my problem-solving skills through Java and DSA.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naveen%20Kumar%20M%20E&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CF0&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Java+%7C+OOP+%7C+DSA;Building+practical+software;Consistent+learning.+Continuous+improvement." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=naveen-nk11&label=Profile%20Views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kumar-a95a7b389)
+[![GitHub followers](https://img.shields.io/github/followers/naveen-nk11?style=flat&logo=github&label=Followers)](https://github.com/naveen-nk11)
 
 </div>
 
-🚀 About Me
-- 🎓 Final-year B.E. Computer Science and Engineering student
-- ☕ Focused on Java, Object-Oriented Programming, and Data Structures & Algorithms
+---
+
+## 👋 About Me
+
+Hi, I'm **Naveen** — a final-year B.E. Computer Science and Engineering student at **V.S.B. College of Engineering Technical Campus, Coimbatore**. I enjoy building practical software applications and sharpening my problem-solving skills through Java and Data Structures & Algorithms.
+
+- 🎓 Final-year B.E. CSE student
+- 💼 Full Stack Development intern at **Viruzverse Solutions**
+- ☕ Focused on Java, Object-Oriented Programming and DSA
 - 🗄️ Learning database development with SQL and MySQL
-- 🌐 Familiar with HTML, CSS, and JavaScript
-- 🛠️ Building projects to strengthen my software development skills
-- 📈 Continuously learning and practicing coding problems
-🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+- 🌐 Familiar with HTML, CSS and JavaScript
+- 🎯 Preparing for software engineering roles
 
-📌 Featured Projects
-💸 FinPilot — Expense Tracker
-A Java-based expense tracker for managing personal transactions and budgets.
-- Add, edit, and delete transactions
-- Organize expenses and review spending summaries
-- Tech: Java, JDBC, MySQL, HTML, CSS, JavaScript
-🔗 View repository
-🧮 Grade Calculator
-A Java project for calculating grades based on marks or scores.
-🔗 View repository
-💻 LeetCode Solutions
-A collection of coding-practice solutions focused on improving problem-solving and DSA skills.
-🔗 View repository
-📊 GitHub Stats
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveen-nk11&show_icons=true&hide_border=true&rank_icon=github" alt="Naveen's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-nk11&layout=compact&hide_border=true" alt="Most used languages"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-🎯 Currently Working On
-- Strengthening Java fundamentals and OOP
-- Practicing arrays, strings, HashMap, and other DSA patterns
-- Improving SQL and database concepts
-- Building projects that demonstrate practical software development
-🤝 Connect With Me
-- GitHub: naveen-nk11
-- LinkedIn: Replace this with your LinkedIn profile URL
-- Email: Replace this with your professional email
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 💰 [**FinPilot — Expense Tracker**](https://github.com/naveen-nk11/Finpilot-expense-tracker) | Java-based expense tracker to manage personal transactions and budgets. Add, edit and delete transactions, and review spending summaries. | `Java` `JDBC` `MySQL` `HTML` `CSS` `JavaScript` |
+| 🧮 [**Grade Calculator**](https://github.com/naveen-nk11/grade-calculator--java) | Java project that calculates grades based on marks or scores. | `Java` |
+| 🧩 [**LeetCode Solutions**](https://github.com/naveen-nk11/YOUR-LEETCODE-REPO-NAME) | Coding-practice solutions focused on improving problem-solving and DSA skills. | `Java` `DSA` |
+
+---
+
+## 🎓 Certifications
+
+- 📊 Data Science — Board Infinity
+- ☁️ Cloud Computing — NPTEL
+- ☕ Java — Infosys Springboard
+- 🏅 Java (Basic) — HackerRank
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-“Consistent learning. Practical building. Continuous improvement.”
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveen-nk11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-nk11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=naveen-nk11&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔹 Strengthening Java fundamentals and OOP
+- 🔹 Practicing arrays, strings, HashMap and other DSA patterns
+- 🔹 Improving SQL and database concepts
+- 🔹 Building projects that demonstrate practical software development
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kumar-a95a7b389)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveen-nk11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+
+<br/>
+
+*"Consistent learning. Practical building. Continuous improvement."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+
 </div>
