@@ -88,11 +88,9 @@ Hi, I'm **Naveen** — a final-year B.E. Computer Science and Engineering studen
 
 <br/>
 
+<img src="./bat.svg" width="70" alt="bat icon" />
+
 *"Consistent learning. Practical building. Continuous improvement."*
-
-<h2>🦇</h2>
-
-<sub>Night mode: ON. Always coding.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
