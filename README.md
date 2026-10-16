@@ -45,16 +45,6 @@ Hi, I'm **Naveen** — a final-year B.E. Computer Science and Engineering studen
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 💰 [**FinPilot — Expense Tracker**](https://github.com/naveen-nk11/Finpilot-expense-tracker) | Java-based expense tracker to manage personal transactions and budgets. Add, edit and delete transactions, and review spending summaries. | `Java` `JDBC` `MySQL` `HTML` `CSS` `JavaScript` |
-| 🧮 [**Grade Calculator**](https://github.com/naveen-nk11/grade-calculator--java) | Java project that calculates grades based on marks or scores. | `Java` |
-| 🧩 [**LeetCode Solutions**](https://github.com/naveen-nk11/YOUR-LEETCODE-REPO-NAME) | Coding-practice solutions focused on improving problem-solving and DSA skills. | `Java` `DSA` |
-
----
-
 ## 🎓 Certifications
 
 - 📊 Data Science — Board Infinity
@@ -99,6 +89,10 @@ Hi, I'm **Naveen** — a final-year B.E. Computer Science and Engineering studen
 <br/>
 
 *"Consistent learning. Practical building. Continuous improvement."*
+
+<h2>🦇</h2>
+
+<sub>Night mode: ON. Always coding.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
