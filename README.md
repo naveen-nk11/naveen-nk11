@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naveen%20Kumar%20M%20E&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0f2027,70:203a43,100:2c5364&height=260&section=header&text=Naveen%20Kumar%20M%20E&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Java%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Naveen Kumar M E banner" />
 
 <h1>🦇</h1>
 
