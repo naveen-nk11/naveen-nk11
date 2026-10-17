@@ -10,7 +10,7 @@
 
 <br/>
 
-//![Profile Views](https://komarev.com/ghpvc/?username=naveen-nk11&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=naveen-nk11&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kumar-a95a7b389)
 [![GitHub followers](https://img.shields.io/github/followers/naveen-nk11?style=flat&logo=github&label=Followers)](https://github.com/naveen-nk11)
 
