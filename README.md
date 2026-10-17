@@ -5,29 +5,37 @@
 <h1>🦇</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CF0&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Java+%7C+OOP+%7C+DSA;Building+practical+software;Consistent+learning.+Continuous+improvement." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=%3E+Final-Year+CSE+Student;%3E+Java+%7C+OOP+%7C+DSA;%3E+Building+practical+software;%3E+Coding+in+dark+mode+%F0%9F%A6%87" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naveen-nk11&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kumar-a95a7b389)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Location](https://img.shields.io/badge/Coimbatore-India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kumar-a95a7b389)
+[![Followers](https://img.shields.io/github/followers/naveen-nk11?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/naveen-nk11)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🦇 About Me
 
-Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering student at **V.S.B. College of Engineering Technical Campus, Coimbatore**.
+```java
+public class Naveen {
 
-- 🎓 Final-year B.E. CSE student
-- 💼 Full Stack Development intern at **Viruzverse Solutions**
-- ☕ Focused on Java, Object-Oriented Programming and DSA
-- 🗄️ Learning database development with SQL and MySQL
-- 🌐 Familiar with HTML, CSS and JavaScript
-- 🎯 Preparing for software engineering roles
+    String name         = "Naveen Kumar M E";
+    String role         = "Final-Year CSE Student & Java Developer";
+    String college      = "V.S.B. College of Engineering Technical Campus";
+    String location     = "Coimbatore, Tamil Nadu, India";
+    String experience   = "Full Stack Development Intern @ Viruzverse Solutions";
+    String[] skills     = {"Java", "OOP", "DSA", "SQL", "MySQL", "HTML", "CSS", "JavaScript"};
+    String currentFocus = "Java fundamentals + DSA + SQL";
+    String motto        = "Consistent learning. Practical building. Continuous improvement.";
+
+}
+```
 
 ---
 
@@ -35,13 +43,7 @@ Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering 
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,idea&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -49,10 +51,14 @@ Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering 
 
 ## 🎓 Certifications
 
-- 📊 Data Science — Board Infinity
-- ☁️ Cloud Computing — NPTEL
-- ☕ Java — Infosys Springboard
-- 🏅 Java (Basic) — HackerRank
+<div align="center">
+
+![Data Science](https://img.shields.io/badge/Data%20Science-Board%20Infinity-6A1B9A?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-NPTEL-0277BD?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Infosys%20Springboard-ED8B00?style=for-the-badge)
+![Java Basic](https://img.shields.io/badge/Java%20Basic-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+</div>
 
 ---
 
@@ -60,12 +66,16 @@ Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveen-nk11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-nk11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveen-nk11&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-nk11&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=naveen-nk11&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=naveen-nk11&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-nk11&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -73,10 +83,10 @@ Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering 
 
 ## 🎯 Currently Working On
 
-- 🔹 Strengthening Java fundamentals and OOP
-- 🔹 Practicing arrays, strings, HashMap and other DSA patterns
-- 🔹 Improving SQL and database concepts
-- 🔹 Building projects that demonstrate practical software development
+- ⚡ Strengthening Java fundamentals and OOP
+- ⚡ Practicing arrays, strings, HashMap and other DSA patterns
+- ⚡ Improving SQL and database concepts
+- ⚡ Building projects that demonstrate practical software development
 
 ---
 
@@ -92,6 +102,6 @@ Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering 
 
 *"Consistent learning. Practical building. Continuous improvement."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:203a43,70:0f2027,100:000000&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
