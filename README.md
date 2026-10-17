@@ -63,7 +63,10 @@ public class Naveen {
 ---
 
 ## 📊 GitHub Stats
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveen-nk11/naveen-nk11/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/naveen-nk11/naveen-nk11/output/github-snake.svg" />
+</picture>
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=naveen-nk11&show_icons=true&theme=radical&hide_border=true&count_private=true" />
