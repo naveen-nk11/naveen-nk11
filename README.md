@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Naveen** — a final-year B.E. Computer Science and Engineering student at **V.S.B. College of Engineering Technical Campus, Coimbatore**.
+Hi, I'm **Naveenkumar ** — a final-year B.E. Computer Science and Engineering student at **V.S.B. College of Engineering Technical Campus, Coimbatore**.
 
 - 🎓 Final-year B.E. CSE student
 - 💼 Full Stack Development intern at **Viruzverse Solutions**
